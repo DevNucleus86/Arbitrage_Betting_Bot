@@ -1,16 +1,5 @@
 # Arbitrage Betting Bot
 
-## Description
-
-This is a arbitrage betting bot that scrap all the bookmakers and find the best arbitrage possible.
-
-## Disclaimer
-
-- Project date : 2019
-- The project is not maintained and update since 2019
-- This is a personal project for the purpose of learning Python. The code is not optimized and is not intended to be used in production.
-- This is a personal project, I'm not responsible for any loss of money or any other problem that could occur with this bot.
-
 ## Report
 
 A detailed report of the project is available on Medium:
