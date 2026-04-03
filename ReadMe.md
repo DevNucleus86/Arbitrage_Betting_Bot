@@ -1,9 +1,5 @@
 # Arbitrage Betting Bot
 
-## Report
-
-![Article_img](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*MV9vcvnA-lsbFY6KTGYAwA.png)
-
 ## Sites scraped:
     
     FR :
