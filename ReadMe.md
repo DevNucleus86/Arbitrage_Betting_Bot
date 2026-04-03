@@ -2,10 +2,6 @@
 
 ## Report
 
-A detailed report of the project is available on Medium:
-- [EN-Article](https://medium.com/python-in-plain-english/development-of-an-arbitrage-betting-bot-8b5d9a71da23)
-- [FR-Article](https://medium.com/@simeon.ferez/arbbettingbot-f60dc63ab93f)
-
 ![Article_img](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*MV9vcvnA-lsbFY6KTGYAwA.png)
 
 ## Sites scraped:
